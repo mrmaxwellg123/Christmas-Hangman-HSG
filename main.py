@@ -49,7 +49,7 @@ def single_player():
 
             else:
                 lives = lives - 1  # takes away a life if wrong
-                print('\nYour letter,', user_letter, 'is not in the word.🧁')
+                print('\nYour letter,', user_letter, 'is not in the word.❌')
 
         elif user_letter in used_letters:
             print('\nYou have already used that letter. Guess another letter.✨')
