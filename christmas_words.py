@@ -1,0 +1,21 @@
+christmas_words = [
+    "snowflake", "reindeer", "mistletoe", "santa", "stocking",
+    "chimney", "holly", "carols", "gingerbread", "jingle",
+    "bells", "snowman", "tinsel", "elves", "present",
+    "wreath", "candles", "nativity", "sleigh", "northpole",
+    "frosty", "yule", "noel", "decorations", "christmastree",
+    "eggnog", "joy", "krampus", "rudolph", "icicle",
+    "peace", "cookies", "fireplace", "snowfall", "sledding",
+    "frozen", "manger", "chimes", "season", "angel",
+    "miracle", "family", "tradition", "saintnicholas", "silentnight",
+    "hark", "advent", "baubles", "treats", "greetings",
+    "frostbite", "snowstorm", "wonderland", "starrynight", "kringle",
+    "lantern", "caroling", "festivity", "cheer", "scarf",
+    "gloves", "cozy", "fleece", "parade", "carols",
+    "sleighride", "holidays", "frost", "sugarplum", "cracker",
+    "festive", "snowball", "holidaylights", "snowdrift", "wintertime",
+    "bells", "lights", "firewood", "joyful", "blizzard",
+    "candycane", "gingerbreadhouse", "peaceful", "icicles", "misty",
+    "snowangel", "ribbon", "ornament", "tree", "winterwonderland",
+    "snowdrift", "jingles", "evergreen", "nutcracker", "twinkle"
+]
